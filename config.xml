@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>bulkcategoryupdate</name>
+    <displayName>Bulk Category Update</displayName>
+    <version>1.1.0</version>
+    <author>TBSolutions</author>
+    <description>Allows bulk updating of product categories.</description>
+</module>
